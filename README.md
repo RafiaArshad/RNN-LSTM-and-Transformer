@@ -55,8 +55,8 @@ https://ai.stanford.edu/~amaas/data/sentiment/
 
   * Positive = 1
   * Negative = 0
+    
 * Splits data into:
-
   * Training Set (70%)
   * Validation Set (15%)
   * Test Set (15%)
